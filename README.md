@@ -12,7 +12,7 @@ The ``` Math.random() ``` is another function which returns a random floating nu
 
 First of all, create all the required files and folders including HTML, CSS and JS files. Create one button in HTML and design it using CSS. I will give more attention to explain the JS file here.
 
-We will use ``` querySelector() ``` to select our body whose background color will change and will use ``` getElementById() ``` to connect our button between HTML and JavaScript file.  Then, We will create a function using Math.random() and Math.floor functions which will generate random number for us. In the last step, we will use addEventListener method on button click event and change the style of back ground color by using ``` body.style.backgroundColor ``` and call our recent created fuction which will generate three random numbers for RGB values. 
+We will use ``` querySelector() ``` to select our body whose background color will change and will use ``` getElementById() ``` to connect our button between HTML and JavaScript file.  Then, We will create a function using Math.random() and Math.floor functions which will generate random number for us. In the last step, we will use addEventListener method on button click event and change the style of back ground color by using ``` body.style.backgroundColor ``` and call our recent created function which will generate three random numbers for RGB values. 
 
 ``` JavaScript 
 const body = document.querySelector('body');
@@ -32,9 +32,7 @@ btn.addEventListener('click', function() {
  ## Reference 
  [JavaScript Math.floor() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) 
 
-
  [JavaScript Math.random() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) 
 
- 
  [JavaScript Math function more detail](https://www.w3schools.com/js/js_random.asp)
 
