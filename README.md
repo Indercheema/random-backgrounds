@@ -30,7 +30,11 @@ btn.addEventListener('click', function() {
  ```
 
  ## Reference 
- [JavaScript Math.floor() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) \n
- [JavaScript Math.random() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) \n
+ [JavaScript Math.floor() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) 
+
+
+ [JavaScript Math.random() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) 
+
+ 
  [JavaScript Math function more detail](https://www.w3schools.com/js/js_random.asp)
 
