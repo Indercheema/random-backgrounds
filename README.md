@@ -1,5 +1,9 @@
 ## Brief Description 
-This tutorial will teach us to generate random background colors by clicking on the button. We will use HTML, CSS, and JavaScript complete this small project. I will give detailed information step by step. I will also add a demo at the end of the project so you can view the project as live  
+This tutorial will teach us to generate random background colors by clicking on the button. We will use HTML, CSS, and JavaScript complete this small project. I will give detailed information step by step. 
+
+## Demo
+
+[Check out live demo here](https://indercheema.github.io/random-backgrounds/)
   
 
 ## How to use methods and functions 
