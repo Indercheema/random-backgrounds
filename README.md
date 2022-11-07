@@ -27,3 +27,7 @@ btn.addEventListener('click', function() {
 })
 
  ```
+
+ ## Reference 
+ [Math floor function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)  
+
